@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Gigya (1.2.5)
+  - sap (0.0.1):
+    - Flutter
+    - Gigya
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - sap (from `.symlinks/plugins/sap/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Gigya
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  sap:
+    :path: ".symlinks/plugins/sap/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Gigya: d6735cfabfaae24799246c2d5aab8fb724406966
+  sap: 6b1fbad75da1a369e967d0c5e3c8def65c506727
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
