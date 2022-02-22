@@ -1,21 +1,19 @@
 .DS_Store
-.dart_tool/
-.fvm/flutter_sdk/**
-.fvm/
-.packages
-.pub/
-example/
-example/build
+/.dart_tool/
+/.packages
+/.pub/
+/example/
+/example/build
 build/
  # Miscellaneous
 *.class
 *.log
 *.pyc
 *.swp
-.atom/
-.buildlog/
-.history
-.svn/
+/.atom/
+/.buildlog/
+/.history
+/.svn/
 
 # IntelliJ related
 *.iml
@@ -78,3 +76,4 @@ build/
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 /.fvm/flutter_sdk/
+/.idea/
