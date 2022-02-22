@@ -1,6 +1,6 @@
 .DS_Store
 .dart_tool/
-.fvm/flutter_sdk/
+.fvm/flutter_sdk/**
 .fvm/
 .packages
 .pub/
